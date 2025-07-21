@@ -24,7 +24,7 @@
      
      •🎂 Age
      
-     •⚧ Gender
+     • ⚧ Gender
      
      •🎓 Education
      
@@ -50,11 +50,11 @@
 
      • ⏳ Avg. Tenure: 7.0 years
 
-#  Dashboard Insights:
+# Dashboard Insights:
 
      • 🔢 By Age Group: Highest attrition in the 26–35 range.
 
-     • ⚧ By Gender: Male attrition slightly higher.
+     • ⚧  By Gender: Male attrition slightly higher.
 
      • 🎓 By Education: Life Sciences sees the most attrition.
 
@@ -75,7 +75,8 @@
      • 🔄 Dynamic tenure-based visual breakdown
 
 # Screenshots / Demos:
-![Dashboard Preview]-(
+
+![Dashboard Preview]-(https://github.com/Devnikhil1/HR-Analytics-Report/blob/main/Snapshot%20of%20HR%20Analytics.png)
 
 
 
